@@ -21,7 +21,7 @@ Once an RP was done, the researcher moved to the next one and repeated the same 
 Details of the data collection procedure will be available in a future publication. If anyone has more questions now, please contact [Fanchen Bao](mailto:fbao2015@fau.edu).
 
 # Data Description
-The data itself is contained in the `wpb_dataset.zip` file, which consists of nine CSV files. Each file's name represents the date when the data was collected. In total, 863,344 probe requests were collected throughout the data collection.
+The data itself is contained in the `wpb_dataset.zip` file, which consists of nine CSV files. Each file's name represents the date when the data was collected.
 
 We recommend that one use the data collected on 2022-11-19 as test data because only one round of probe request emission was carried out at each RP. On all the other eight days, three rounds of probe request emissions took place at each RP.
 
